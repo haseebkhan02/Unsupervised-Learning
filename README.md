@@ -1,5 +1,5 @@
 
-# AI/ML Projects – Unsupervised & Recommendation Systems
+# Projects – Unsupervised Machine Learning & Recommendation Systems
 
 ## **Overview**
 

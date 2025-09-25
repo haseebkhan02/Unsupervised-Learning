@@ -44,7 +44,7 @@ This repository contains multiple AI/ML projects focused on **unsupervised learn
 * **Goal:** Reconstruct images using fewer dimensions
 * **Business Impact:** Optimizes storage and transmission of image data
 
-### **Project 6: Anomaly Detection in Transactions**(Coming Soon...)
+### **Project 6: Anomaly Detection in Transactions**
 
 * **Dataset:** Credit Card Fraud Dataset
 * **Concepts:** Isolation Forest, One-Class SVM

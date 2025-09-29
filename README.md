@@ -58,7 +58,7 @@ This repository contains multiple AI/ML projects focused on **unsupervised learn
 * **Goal:** Identify patterns like “People who bought X also bought Y”
 * **Business Impact:** Recommendation engines and cross-selling
 
-### **Project 8: Visualizing High-Dimensional Data**(Coming Soon...)
+### **Project 8: Visualizing High-Dimensional Data**
 
 * **Dataset:** MNIST handwritten digits or CIFAR-10 images
 * **Concepts:** t-SNE, UMAP for 2D visualization

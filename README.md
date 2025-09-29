@@ -51,7 +51,7 @@ This repository contains multiple AI/ML projects focused on **unsupervised learn
 * **Goal:** Detect unusual/fraudulent transactions
 * **Business Impact:** Prevent financial fraud and losses
 
-### **Project 7: Market Basket Analysis (Association Rules)**(Coming Soon...)
+### **Project 7: Market Basket Analysis (Association Rules)**
 
 * **Dataset:** Groceries or retail transaction data
 * **Concepts:** Apriori, FP-Growth, lift & confidence metrics

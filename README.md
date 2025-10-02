@@ -65,7 +65,7 @@ This repository contains multiple AI/ML projects focused on **unsupervised learn
 * **Goal:** Visualize clustering of digits/images in latent space
 * **Business Impact:** Explore high-dimensional data for AI/ML pipelines
 
-### **Project 9: Image Clustering with Deep Features**(Coming Soon...)
+### **Project 9: Image Clustering with Deep Features**
 
 * **Dataset:** CIFAR-10 or Caltech-101 images
 * **Concepts:** Pretrained CNN (ResNet) → Extract embeddings → K-Means/DBSCAN

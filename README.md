@@ -72,7 +72,7 @@ This repository contains multiple AI/ML projects focused on **unsupervised learn
 * **Goal:** Cluster images without labels into semantic groups
 * **Business Impact:** Auto-tagging and semantic organization of images
 
-### **Project 10: Hybrid Recommendation Engine (Deep Unsupervised)**(Coming Soon...)
+### **Project 10: Hybrid Recommendation Engine (Deep Unsupervised)**
 
 * **Dataset:** YouTube Trending Videos / MovieLens
 * **Concepts:** Autoencoders + clustering + embeddings
